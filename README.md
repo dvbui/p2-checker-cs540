@@ -22,7 +22,7 @@ git clone https://github.com/dvbui/p2-checker-cs540
 cd p2-checker-cs540
 vim input.txt
 (paste the solution path, without the Max queue length line
-(save the input.txt line)
+(save the input.txt file)
 python -i checker_p2.pyc
 >>> check("input.txt")
 ...
