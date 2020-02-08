@@ -9,7 +9,7 @@
 - If the solution path is valid, the last output line will be ```Accepted```. If the solution path is invalid, the last three output lines would be ```Wrong answer on step i``` with step ```i``` be the transition from the ```i-th``` state to the ```i+1-th``` state, and these two states.
 
 ## Note
-- I did not fully check the correctness of this checker. Use it on your own risk.
+- I did not fully check the correctness of this checker. Use it at your own risk.
 - This checker only checks the validity of the path. It does not check the optimality or the correctness of the heuristic function.
 - Do not decompile this code and use it in your program. (To avoid plagiarism, I decided to not generate successor states to check whether the new states are valid. I will also publish my code after the deadline of the assignment).
 
