@@ -1,7 +1,7 @@
 # p2-checker-cs540
 
 ## How to Use
-- Clone this GitHub repository to your a Linux machine (such as your CS lab computer)
+- Clone this GitHub repository to a Linux machine (such as your CS lab computer)
 - Create a file named ```input.txt``` in the same folder with ```checker_p2.pyc```
 - Copy and paste the solution path to ```input.txt```. Do not include the ```Max queue length``` line.
 - In the directory of ```checker_p2.pyc```, run ```python -i checker_p2.pyc``` (this code is written in Python 2)
